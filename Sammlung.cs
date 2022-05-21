@@ -10,7 +10,7 @@ public class Sammlung
     {
         return null;
     }
-    //grepper end
+    //end grepper
 
     public void Funktion3
     {
