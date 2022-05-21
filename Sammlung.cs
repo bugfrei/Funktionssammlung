@@ -23,4 +23,11 @@ public class Sammlung
     {
         ;
     }
+
+    //grepper Meine Letzte Funktion
+    public void Last()
+    {
+        return "";
+    }
+    //end grepper
 }
