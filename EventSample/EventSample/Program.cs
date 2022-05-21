@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EventSample
 {
-    //grepper Events in C# (EventHandler, event, RaiseEvent, Invoke Event)
+    //grepper C# Events (EventHandler, event, RaiseEvent, Invoke Event)
     class Program
     {
         static void Main(string[] args)
