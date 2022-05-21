@@ -12,6 +12,13 @@ public class Sammlung
     }
     //end grepper
 
+    //grepper Nochmal eine Funktion
+    public void Nocheine()
+    {
+        return "Hallo Welt!";
+    }
+    //end grepper
+
     public void Funktion3
     {
         ;
